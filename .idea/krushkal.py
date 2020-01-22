@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.6 - Krushkal's MST Algorithm
+# Krushkal's MST Algorithm
 
 from collections import defaultdict
 

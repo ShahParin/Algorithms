@@ -1,6 +1,4 @@
-﻿# Name: Parin Shah
-# Roll No: E029
-# Experiment No.4 - Merge Sort
+﻿# Merge Sort
 
 def mergeSort(arr,p,q):
     if len(arr) >1:

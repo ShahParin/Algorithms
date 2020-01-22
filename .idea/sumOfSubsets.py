@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.9 - Sum of Subsets Problem
+# Sum of Subsets Problem
 
 class sos:
     def __init__(self):

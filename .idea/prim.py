@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.5 - Prim's MST Algorithm
+# Prim's MST Algorithm
 
 from sys import maxsize as mi
 from tabulate import tabulate

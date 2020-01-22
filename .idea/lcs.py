@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.7 - Longest Common Substring
+# Longest Common Substring
 
 x1 = input("Enter String 1: ")
 y1 = input("Enter String 2: ")

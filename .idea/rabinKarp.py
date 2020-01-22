@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.10 - Rabin Karp's Algorithm
+# Rabin Karp's Algorithm
 
 from string import ascii_lowercase
 

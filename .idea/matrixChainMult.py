@@ -1,6 +1,4 @@
-# Name: Parin Shah
-# Roll No: E029
-# Experiment No.8 - Matrix Chain Multiplication
+# Matrix Chain Multiplication
 
 class mat:
     def __init__(self):
